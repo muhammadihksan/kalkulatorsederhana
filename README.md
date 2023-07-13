@@ -1,2 +1,2 @@
-# kalkulatorsederhana
-membuat program Kalkulator Sederhana dalam bahasa python
+HADIAH_DARI_MBC
+Hadiah pertama untuk caas Riset MBC Lab tentang GIT & GITHUB
